@@ -34,8 +34,6 @@ This is a complex project that will be divided into multiple stages. For now, on
 
 The script takes three cards as input, where each card is represented as a list of attributes in the order: number, color, shape, and shading. It then checks whether these three cards form a valid set according to the game rules.
 
-Thi
-
 ## How to Use
 Each card should be input as a list: ['number', 'color', 'shape', 'shading'].
 Call the function with three cards as arguments: is_set_raw(card1, card2, card3).
