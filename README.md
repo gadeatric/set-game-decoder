@@ -3,7 +3,7 @@
 ## Introduction
 The Set Game is a challenging and fun card game that tests players' ability to identify patterns and sets from a collection of cards. Each card in the Set Game features four distinct attributes: number, color, shape, and shading. A "set" consists of three cards where each attribute is either all the same on each card or all different.
 
-This Python aims to create a machine learning solution that automates the recognition of cards from the daily SET puzzle and identifies all valid sets within the game. Initially, the project will focus on developing a robust algorithm to decode sets based on the rules of the game. This foundational script serves as a critical component for the larger goal, which involves integrating image recognition and machine learning to process and analyze the daily puzzles automatically.
+This Python aims to create a machine learning solution that automates the recognition of cards from the daily SET puzzle and identifies all valid sets within the game. Initially, the project will focus on developing a robust algorithm to decode sets based on the rules of the game. This foundational script serves as a critical component for the larger goal, which involves integrating image/object recognition and machine learning to process and analyze the daily puzzles automatically.
 
 The idea arose from an informal competition with some friends, where we tried to solve the [online daily set](https://www.setgame.com/set/puzzle) in the fastest time possible.
 
